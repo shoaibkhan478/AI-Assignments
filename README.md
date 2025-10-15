@@ -1,2 +1,2 @@
-# AI-Assignments
-A simple Assignment of AI while Learning
+# AI-Assignments | Numpy Library
+The file contains the Practice code of Numpy Library that helped me to solve Array Related problems
